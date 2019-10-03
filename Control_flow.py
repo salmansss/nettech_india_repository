@@ -33,8 +33,3 @@
 
 # Syntax
 # The syntax of the if...else statement is
-
-# if expression:
-#     statement(s)
-# else:
-#     statement(s)
